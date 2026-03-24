@@ -7,7 +7,6 @@ Pratice:
 1- Write Person v1 class and its Test
 2- Wtite Person v2 class (with encpaualtion, toString, and Constructors) 
 and its test
-3- Create first JFrame example
 
 */
 
