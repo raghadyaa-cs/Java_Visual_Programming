@@ -1,5 +1,5 @@
 package edu.zuj.vp.week5.lecture1;
-/*
+/* Notes doc::::
 Programing styles:
 1- Adhock
 2- Proecdural Progrfamming (structing the code into methods)
